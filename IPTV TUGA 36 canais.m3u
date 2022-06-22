@@ -18,10 +18,6 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2221?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Televisão Portugal",CMTV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204?checkedby:iptvcat.com
 
-#EXTINF:-1 group-title="Televisão Portugal"  tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.novamente.pt/wp-content/uploads/2016/09/sicnot.jpg" group-title="Televisão Portugal",SIC NOTICIAS
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2219?checkedby:iptvcat.com
