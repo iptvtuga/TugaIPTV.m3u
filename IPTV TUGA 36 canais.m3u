@@ -1,0 +1,188 @@
+#EXTM3U 
+
+#EXTINF:-1 group-title="Portugal" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="http://marcooliveira.pt/wp-content/uploads/2016/02/rtp.jpg",RTP 1 HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+http://162.212.178.69:41042/bysid/608
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17227489.548c24db303e0.jpg" group-title="Portugal",RTP 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205664?checkedby:iptvcat.com
+
+
+#EXTINF:-1 group-title="Portugal" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 group-title="Portugal" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIyIDI6MTg6MzAgUE0maGFzaF92YWx1ZT1rNTVRT3F0ZzhGNi9HSy9JcWJ3MmFBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MTc5NTNhMjktYzU2ZC00ZDI3LWFlNzMtNWQxOGIyNWE1M2Rl/
+
+#EXTINF:-1 group-title="Portugal" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIyIDI6MTg6MjkgUE0maGFzaF92YWx1ZT1aWWN4SnlKbnhad2lhTzdjYjdTZGZnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ODZlMWNmNjAtZDU2Yi00MjFmLWFjZjMtZjY2MGQxMTUxMzFi/
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="" group-title="Portugal",CMTV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://www.novamente.pt/wp-content/uploads/2016/09/sicnot.jpg" group-title="Portugal",SIC NOTICIAS
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2219?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Portugal" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="" group-title="Portugal",RTP ACORES
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2213?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="" group-title="Portugal",RTP AFRICA
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136684?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="" group-title="Portugal",RTP MADEIRA
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2215?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="" group-title="Portugal",RTP MEMORIA
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2214?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://cdn.teleon.tv/logo/tv_mana_1_pt.png" group-title="Portugal",TV Mana 1
+http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="" group-title="Portugal",CAÇA E PESCA
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132899?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="Infantil",DISNEY JUNIOR
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2224?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/2560px-2010_Disney_Channel_logo.svg.png" group-title="Infantil",DISNEY CHANNEL
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2223?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://pbs.twimg.com/profile_images/752465821218275328/_hoSQJ0-_400x400.jpg" group-title="Infantil",PANDA KIDS
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/361078?
+checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/SIC_Caras_logo.png/150px-SIC_Caras_logo.png" group-title="Portugal",SIC CARAS
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136630?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://1.bp.blogspot.com/-r7_JYg_26pw/XA0Lc75e3WI/AAAAAAAAciw/aWjKGvDQ7jkafjPv6VqhWvYvfHqhW20mgCPcBGAYYCw/w1200-h630-p-k-no-nu/SIC%2BMulher%2B-%2BNatal%2B2018.jpg" group-title="Portugal",SIC MULHER
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2218?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://tvepg.eu/img/portugal/logo/sic_radical.png" group-title="Portugal",SIC RADICAL
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136264?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Portugal" tvg-id="TVIR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Sport" tvg-id="canal11hd.tv.vodafone.pt" tvg-name="11 HD" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/b7/39/41/b7394170-d6cc-38c3-715e-bd47a4641790/AppIcon-0-1x_U007emarketing-0-0-85-220-0-6.png/1200x630wa.png",Canal 11
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://www.telelorca.net/images/portfolio/08.png" group-title="Portugal",HOLLYWOOD HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/221898?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal"" tvg-logo="" group-title="Portugal",CINEMUNDO
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132905?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/ID_HD_logo_2017.jpg" group-title="Undefined" group-title="Portugal",INVESTIGATION DISCOVERY HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136671?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://cdn2.mhpbooks.com/2018/03/8314256770_9c5f3ab104-320x266.jpg",NATIONAL GEO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/233872?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://www.logotipo.pt/wp-content/uploads/2011/03/logotipoptodisseia.jpg" group-title="Portugal",ODISSEIA
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136678?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="http://briefing.pt/images/stories/logos/mtv_portugal_logo.jpg" group-title="Portugal",MTV PORTUGAL
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136673?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/200px-MTV_2021_%28brand_version%29.svg.png" group-title="Portugal",MTV 00s
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/374537?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://www.nos.pt/particulares/PublishingImages/Banners/NOSStudios/thumbNOSStudios.png" group-title="Portugal",NOS STUDIO
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/202823?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sport",SPORT TV 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/302761?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sport",SPORT TV 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205667?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sport",SPORT TV 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205668?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sport",SPORT TV 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1458?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Sport",SPORT TV NBA
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178146?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Sport",ELEVEN SPORTS 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158069?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Sport",ELEVEN SPORTS 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158902?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Sport",ELEVEN SPORTS 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159765?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Sport",ELEVEN SPORTS 4 SD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164980?
+
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Sport",ELEVEN SPORTS 5 SD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164981?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Sport",ELEVEN SPORTS 6 SD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164982?checkedby:iptvcat.com
+
+#EXTM3U
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Sport",SPORTING TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2232?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg" group-title="Sport",REAL MADRID TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136663?
+
+#EXTGRP:18+
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KINO 18+" group-title="18+", KINO 18+
+#EXTGRP:18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+
+#EXTINF:-1 tvg-name="Babestation" group-title="18+", Babestation
+#EXTGRP:18+
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-name="VISIT-X" group-title="18+", VISIT-X
+#EXTGRP:18+
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",SBT TV JORNAL CARUARU
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",SBT PE INTERIOR
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",SBT TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+
+
+
+
+
+
+
+
