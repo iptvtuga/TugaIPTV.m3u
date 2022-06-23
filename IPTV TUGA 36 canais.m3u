@@ -15,7 +15,7 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Televisão Portugal",CNN PORTUGAL
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2221?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Televisão Portugal",CMTV
+#EXTINF:0 tvg-country="PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg" group-title="Televisão Portugal",CMTV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204?checkedby:iptvcat.com
 
 
@@ -28,7 +28,7 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2218?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/SIC_Caras_logo.png/150px-SIC_Caras_logo.png" group-title="Televisão Portugal",SIC CARAS
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136630?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://tvepg.eu/img/portugal/logo/sic_radical.png" group-title="Portugal" group-title="Televisão Portugal",SIC RADICAL
+#EXTINF:0 tvg-country="PT" tvg-logo="https://tvepg.eu/img/portugal/logo/sic_radical.png" group-title="Televisão Portugal" group-title="Televisão Portugal",SIC RADICAL
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136264?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PT" tvg-logo="http://freeweb.t-2.net/itak/LOGO/24Kitchen_HD.png" group-title="Televisão Portugal",24 KITCHEN HD
@@ -232,4 +232,6 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+
+
 
