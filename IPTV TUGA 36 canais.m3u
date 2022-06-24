@@ -10,10 +10,10 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205664?checkedby:iptvcat.com
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Televisão Portugal",TVI HD
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIyIDg6MjA6NDkgUE0maGFzaF92YWx1ZT04WXpEelVOOFR2S1pXZHBtbGx0YS9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDBjNDBhYTAtYWRhZS00YWZjLWIzZWQtZTQxMmVlOTgyZmEz/
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDI6MTY6NDcgUE0maGFzaF92YWx1ZT1zUnFBNjNiVk5WREQyckxCWU9CcnN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmFmNGQ2ODctZWFjNi00ZDkwLThiYmQtZTQ0ZDgzMTBlNjg1/
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Televisão Portugal",CNN PORTUGAL
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2221?checkedby:iptvcat.com
+https://video-auth7.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=174011085&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIyIDM6MzozNSBQTSZoYXNoX3ZhbHVlPTFDcEpSSjR4SHppSFEvU2ppZzd1aVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zY2NlMmRlYy0xNGU0LTQ1ZTYtOTNkNC02ZmIxNTAxZDljZGE=
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg" group-title="Televisão Portugal",CMTV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204?checkedby:iptvcat.com
@@ -194,7 +194,6 @@ https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/66167?checkedby:iptvcat.com
 
 
-
 #EXTGRP:18+
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+", KINO 18+
@@ -229,5 +228,7 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+
+
 
 
