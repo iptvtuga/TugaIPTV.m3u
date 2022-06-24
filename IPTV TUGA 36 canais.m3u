@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-country="PT" tvg-logo="http://marcooliveira.pt/wp-content/uploads/2016/02/rtp.jpg" group-title="Televisão Portugal",RTP 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/162611?checkedby:iptvcat.com
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b640000_slpor.m3u8?token=1656216000_559ade2a11779766aeeac8afc915005c5b70197d
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17227489.548c24db303e0.jpg" group-title="Televisão Portugal",RTP 2 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205664?checkedby:iptvcat.com
@@ -231,4 +231,48 @@ http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
 
 
 
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Amado
+https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Luz
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
 
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:-1 group-title="Praias"" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor Nascente
+https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferragudo - Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Armação de Pêra
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Galé
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias"" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Faro
+https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alagoa - Altura
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
+
+#EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde - Castro Marim
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
