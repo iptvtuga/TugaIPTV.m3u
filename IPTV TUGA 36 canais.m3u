@@ -340,3 +340,25 @@ https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
 
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde - Castro Marim
 https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w185/cz8zbePAot9kRAlABXdlNfVv6CL.jpg" group-title="filmes completos legendados",MY HERO ACADEMIA: LUTA PELA FÉ: A HISTÓRIA DO PADRE STU
+https://www96.ff-01.com/token=ajOxhBKnQ9bWhunbHEdHag/1656361622/89.99.0.0/193/1/e1/00786d294aff20b854893416a4c2fe11-480p.mp4
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w185/uEPJQY1kEEz9XoZZ8rP6p9JUrmv.jpg" group-title="filmes completos legendados",ASSASSINO SEM RASTRO
+https://861480981.tapecontent.net/radosgw/jaG3R8DekbSzjWK/RTbuxrWC63B-cwXpsTUOgIYeWxT1roUrphOL7pS-xlvUa5vUexw-2MbtVIkgRuSAr_U5rlcljOKCLAagXPaom-KrBIed1X-v8O3-Tea6EnOGf1cM9_mTrhV2fAKIZLdEr1bFwbd5Mq_xPQvK1yf_OqAEaf9-0E8lxeI85ZBYX2AFmBR35OonSrXcRfUkuVEVjoZpWTXTdsOf6o1T0VybQ7B1WP9SGVGwveDi571hm_Fl8baiZJRlwMgoB-2F5B1p7y58qLEKQq9piMH43S0-jkUZbFUvMvasDf2QXw/Memory.720p.MP4.LEG.mp4?stream=1
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w185/mqCLGi2YxlqwWeGN7NRILYQOhm.jpg" group-title="filmes completos legendados",O HOMEM DO NORTE
+https://www1175.ff-03.com/token=AkQ9x7GqiFMYmnrwc9F2Qg/1656362646/89.99.0.0/195/0/f1/e6d113f7e6eb5cf8ede2a4ea1b163f10-1080p.mp4
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w185/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg" group-title="filmes completos legendados",MORBIUS
+https://www1460.ff-03.com/token=7CKjGAqLJxEpK5qlUVvNBQ/1656362843/89.99.0.0/195/9/22/77eba70e0ca3903e4a4018e1eaf6b229-1080p.mp4
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w185/cXHBTIUYFP5un0ySiMsSHU3alWD.jpg" group-title="filmes completos legendados",DRAGON BALL Z: YO! O RETORNO DE SON GOKU E SEUS AMIGOS!
+https://www102.ff-01.com/token=fWZOnxLUJl2S2p5r4DXq2Q/1656363173/89.99.0.0/139/8/d3/abc76c1d6cbd0dfc2df990bc2fa74d38-360p.mp4
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://image.tmdb.org/t/p/w185/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg" group-title="filmes completos legendados",ANIMAIS FANTÁSTICOS: OS SEGREDOS DE DUMBLEDORE
+https://860718379.tapecontent.net/radosgw/jjaQXMbydkfzj4a/rELkjFumP6eHcDwbQGOvOTgUeFv1qWdtQ69X9csQCKl4rpe51ydE6cz9EsPLXpVJo8hB-lebOa3su3QD6u3x__ouNhSNitEi4yJF9TsaCmGs2-KIuUkYKSE-lnd_8_JYBDC-1aToCa-J6FYSaPgH68P_3fVh6RiaBemYPl513ic5itPQjDTAVwDSQAFuBicZh24C8y5pyqtLjr6gY0W8dNxLDViCV2pBFaTD4fCYVsoB1Q8yv-ShT8jxoW1sFTuPkvyCVFejzCLxpuxesaV1FXjtq6sSmvptrpTHV-gyt31lOOJ20QnG8FcOg70/Os.Segredos.de.Dumbledore.720p.MP4.LEG.mp4?stream=1
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
