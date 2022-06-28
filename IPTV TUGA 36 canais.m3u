@@ -10,10 +10,10 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205664?checkedby:iptvcat.com
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Televisão Portugal",TVI HD
-https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=205043651&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIyIDk6Mjg6NDcgUE0maGFzaF92YWx1ZT1UbUgwM3cxZ2xWdW41TFpJelR5cUZRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Y2ZhMzI2NjItOGIwMC00NGJkLTgwNTEtYjUwNzRlOTI3NTE4
+https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=205309577&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDI6NTQ6NyBQTSZoYXNoX3ZhbHVlPUlwd2FZVTJianJDdENPbnlUd2JOUEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04N2RjZWZjOC04OGJkLTQ2MDQtYWI3Yi1jY2MwZGM5MGE5NmM=
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Televisão Portugal",CNN PORTUGAL
-https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=205044260&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDIyIDk6MzA6NCBQTSZoYXNoX3ZhbHVlPVdrenVFcFlBcVJzVVBrQ216MmpKQ0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hMjMyYzAwNy0xYjRlLTRmYzctYWMwNS1kMGJkNjYyZDFhZTU=
+https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=205309476&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDI6NDc6NTAgUE0maGFzaF92YWx1ZT1QZGZwMDBPT2NFd2tsdE8wYnZVeXN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGQ3NGIwYWQtZWE0NC00NjlhLWExMTktZGM1NzcxYzkyYTFj
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg" group-title="Televisão Portugal",CMTV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204?checkedby:iptvcat.com
@@ -130,34 +130,37 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2224?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/302761?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205667?checkedby:iptvcat.com
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159583
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205668?checkedby:iptvcat.com
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159584
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1458?checkedby:iptvcat.com
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159585
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159586
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV NBA
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178146?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158069?checkedby:iptvcat.com
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159576
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158902?checkedby:iptvcat.com
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159577
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/159765?checkedby:iptvcat.com
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159578
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 SD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164980?
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159579
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 5 SD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164981?checkedby:iptvcat.com
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159580
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 6 SD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/164982?checkedby:iptvcat.com
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159581
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
