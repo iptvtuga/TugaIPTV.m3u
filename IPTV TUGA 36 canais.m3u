@@ -127,7 +127,7 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2224?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74962.ts
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
 http://ccdn.pw:80/EFjGN/844UACmmh/74967.ts
