@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0 tvg-country="PT" tvg-logo="http://marcooliveira.pt/wp-content/uploads/2016/02/rtp.jpg" group-title="Televisão Portugal",RTP 1 HD
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b640000_slpor.m3u8?token=1656216000_559ade2a11779766aeeac8afc915005c5b70197d
+http://ccdn.pw:80/EFjGN/844UACmmh/74931.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/17227489.548c24db303e0.jpg" group-title="Televisão Portugal",RTP 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205664?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74934.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Televisão Portugal",SIC HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
@@ -16,23 +16,23 @@ https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/ch
 https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=205309476&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDI6NDc6NTAgUE0maGFzaF92YWx1ZT1QZGZwMDBPT2NFd2tsdE8wYnZVeXN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGQ3NGIwYWQtZWE0NC00NjlhLWExMTktZGM1NzcxYzkyYTFj
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg" group-title="Televisão Portugal",CMTV
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2204?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74840.ts
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.novamente.pt/wp-content/uploads/2016/09/sicnot.jpg" group-title="Televisão Portugal",SIC NOTICIAS
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2219?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74953.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://1.bp.blogspot.com/-r7_JYg_26pw/XA0Lc75e3WI/AAAAAAAAciw/aWjKGvDQ7jkafjPv6VqhWvYvfHqhW20mgCPcBGAYYCw/w1200-h630-p-k-no-nu/SIC%2BMulher%2B-%2BNatal%2B2018.jpg" group-title="Televisão Portugal",SIC MULHER
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2218?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74951.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/SIC_Caras_logo.png/150px-SIC_Caras_logo.png" group-title="Televisão Portugal",SIC CARAS
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136630?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74946.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="http://freeweb.t-2.net/itak/LOGO/24Kitchen_HD.png" group-title="Televisão Portugal",24 KITCHEN HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/234099?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="Televisão Portugal",AMC HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209534?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74804.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://imagem.natelinha.uol.com.br/original/canalaxn_fd18fa5a810269d31ed3236e86240a0c6d9d0bf0.jpeg" group-title="Televisão Portugal",AXN
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136668?checkedby:iptvcat.com
@@ -105,10 +105,10 @@ http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/361078?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/SIC_K_Portugal.png" group-title="Infantil",SIC K
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2217?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74950.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4e/Baby_TV_%282009-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20210319144454" group-title="Infantil",BABY TV
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136667?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74815.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Panda_Biggs_logo.png" group-title="Infantil",BIGGS
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/180946?checkedby:iptvcat.com
@@ -127,40 +127,48 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2224?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/302761?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74962.ts
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159583
+http://ccdn.pw:80/EFjGN/844UACmmh/74967.ts
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159584
+http://ccdn.pw:80/EFjGN/844UACmmh/74971.ts
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159585
+http://ccdn.pw:80/EFjGN/844UACmmh/74974.ts
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159586
+http://ccdn.pw:80/EFjGN/844UACmmh/74977.ts
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV NBA
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178146?checkedby:iptvcat.com
+http://ccdn.pw:80/EFjGN/844UACmmh/74978.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159576
+http://ccdn.pw:80/EFjGN/844UACmmh/74855.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159577
+http://ccdn.pw:80/EFjGN/844UACmmh/74859.ts
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159578
+http://ccdn.pw:80/EFjGN/844UACmmh/74862.ts
 
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 SD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159579
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 HD
+http://ccdn.pw:80/EFjGN/844UACmmh/74865.ts
 
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 5 SD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159580
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 5 HD
+http://ccdn.pw:80/EFjGN/844UACmmh/74868.ts
 
-#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 6 SD
-http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159581
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 6 HD
+http://ccdn.pw:80/EFjGN/844UACmmh/74869.ts
+
+#EXTM3U
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",SEurosport 1 HD
+http://ccdn.pw:80/EFjGN/844UACmmh/74872.ts
+
+#EXTM3U
+#EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",SEurosport 2 HD
+http://ccdn.pw:80/EFjGN/844UACmmh/74874.ts
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://ewsat.com/img/SPORTING.png" group-title="Canais Desportivos",SPORTING TV
