@@ -67,10 +67,6 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1459
 #EXTINF:0 tvg-country="PT" tvg-logo="https://brandlogos.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Televisão Portugal",FOX MOVIES
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2207?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://png.pngitem.com/pimgs/s/301-3011241_fox-news-go-fox-news-app-icon-hd.png" group-title="Televisão Portugal",FOX NEWS
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1457
-
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://img1.gratispng.com/20180825/vhu/kisspng-history-television-channel-logo-a-e-networks-history-reveals-dynamic-summer-original-programmin-5b81f1acac9734.8424988815352426687069.jpg" group-title="Televisão Portugal",HISTORIA
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2227?checkedby:iptvcat.com
 
@@ -102,23 +98,8 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1529
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Televisão Portugal",TVCine Action
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1452
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png"Televisão Portugal",TVCine Edition
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png" group-title="Televisão Portugal",TVCine Action
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/82254
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png"Televisão Portugal",TVCine Top
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1446
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://tvepg.eu/img/portugal/reviews/tvi_ficcao/remedio_santo_compacto.png"Televisão Portugal",TVI Ficção
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1421
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png"Televisão Portugal",TVI Reality
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1423
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/640px-A%26E_Network_logo.svg.png"Televisão Portugal",A&E
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/279741
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQBoIjl4dYv_0E2OYjsRHzuC_vBypvrqfAkLRqMZA=s900-c-k-c0x00ffffff-no-rj"Televisão Portugal",Afro Music Channel
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1536
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Travel_Channel.png" group-title="Televisão Portugal",TRAVEL CHANNEL HD
@@ -214,9 +195,6 @@ http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1480
 #EXTINF:0 tvg-country="PT" tvg-logo="https://tvepg.eu/img/germany/logo/motorvision_tv.png" group-title="Canais Desportivos",MOTORVISION
 http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/4012
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png"Canais Desportivos",A Bola TV
-http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1420
-
 #EXTINF:0 tvg-country="PT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png" group-title="Canais Desportivos",REDBULL TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178144?checkedby:iptvcat.com
 
@@ -284,8 +262,6 @@ https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
 
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor
 https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
-#EXTINF:-1 group-title="Praias"" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alvor Nascente
-https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
 
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Rocha
 https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
@@ -310,9 +286,6 @@ https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
 
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vilamoura
 https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
-
-#EXTINF:-1 group-title="Praias"" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Faro
-https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
 
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Alagoa - Altura
 https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
