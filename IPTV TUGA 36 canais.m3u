@@ -130,16 +130,19 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2224?checkedby:iptvcat.com
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74967.ts
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205667?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74971.ts
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205668?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74974.ts
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1458?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74977.ts
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1459?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 6 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/367634?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV NBA
 http://ccdn.pw:80/EFjGN/844UACmmh/74978.ts
@@ -227,14 +230,6 @@ http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunkli
 #EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",MIA KHALIFA
 #EXTGRP:18+
 http://218158.vod.adultiptv.net/ph5ae33ab4a0327/play.m3u8
-
-EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",GATINHAS BRASILEIRAS
-#EXTGRP:18+
-http://1465.vod.redtraffic.xyz/ph57508b729a194/play.m3u8
-
-
-
-
 
 
 
