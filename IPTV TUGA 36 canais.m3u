@@ -10,13 +10,13 @@ http://ccdn.pw:80/EFjGN/844UACmmh/74934.ts
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Televisão Portugal",TVI HD
-https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=205377139&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIyIDM6MTE6NDkgQU0maGFzaF92YWx1ZT1Zd1dmbXpLVnJrRi9RYUZnaFJPYU9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGE5ZWI0NzgtMzM5Mi00ZjliLTk2YjgtNDYxNTVlOTZjYWI4
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1410
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Televisão Portugal",CNN PORTUGAL
-https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=205377178&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIyIDM6MTI6MTggQU0maGFzaF92YWx1ZT1jSVRrL21uUDlMRmNSeGlBTVJWVVB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjE3MzA4NzYtZWZjZC00Y2M2LWJhMDItODdiOWY4M2ZkZjU2
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1414
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg" group-title="Televisão Portugal",CMTV
-http://ccdn.pw:80/EFjGN/844UACmmh/74840.ts
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1412
 
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.novamente.pt/wp-content/uploads/2016/09/sicnot.jpg" group-title="Televisão Portugal",SIC NOTICIAS
@@ -130,40 +130,40 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2224?checkedby:iptvcat.com
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205667?checkedby:iptvcat.com
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1486
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205668?checkedby:iptvcat.com
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1489
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 4 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1458?checkedby:iptvcat.com
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1492
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 5 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1459?checkedby:iptvcat.com
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1495
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV 6 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/367634?checkedby:iptvcat.com
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/281487
 
 #EXTINF:0 tvg-country="Portugal" tvg-logo="https://archive.org/download/sport-tv-logo/SportTV-logo.png" group-title="Canais Desportivos",SPORT TV NBA
-http://ccdn.pw:80/EFjGN/844UACmmh/74978.ts
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/2051
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 1 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74855.ts
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1499
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 2 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74859.ts
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1503
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 3 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74862.ts
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1506
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 4 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74865.ts
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1509
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 5 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74868.ts
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1512
 
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://pbs.twimg.com/profile_images/1107389592964132865/shmRbSLz_400x400.jpg" group-title="Canais Desportivos",ELEVEN SPORTS 6 HD
-http://ccdn.pw:80/EFjGN/844UACmmh/74869.ts
+http://iptvtree.net:8080/ce1eb8b3/fd28c06f6f/1515
 
 #EXTM3U
 #EXTINF:0 tvg-country="Desporto" tvg-logo="https://iconape.com/wp-content/files/fs/285350/png/285350.png" group-title="Canais Desportivos",SEurosport 1 HD
@@ -190,26 +190,6 @@ https://aipaipara.xyz/combate/tracks-v1a1/mono.m3u8?token=398a8b8d284e0b2a03820e
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.broadcastmagazine.nl/wp-content/uploads/2021/04/espn1020.jpg" group-title="Canais Desportivos",ESPN - TV
 https://aipaipara.xyz/combate/tracks-v1a1/mono.m3u8?token=398a8b8d284e0b2a03820e0a2ccd6fbbc2a74077-93c91d2eff1ec4d991736a68e0399bbc-1656475849-1656468649
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.broadcastmagazine.nl/wp-content/uploads/2021/04/espn1020.jpg" group-title="Canais Desportivos",ESPN - TV
-https://aipaipara.xyz/espn/tracks-v1a1/mono.m3u8?token=ff117adc1e07e472a2b2e098ebc499a636b31e8a-3c899d6e759d69ca9b0985dcd957a02e-1656475978-1656468778
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.broadcastmagazine.nl/wp-content/uploads/2021/04/espn1020.jpg" group-title="Canais Desportivos",ESPN - TV
-https://aipaipara.xyz/espn/tracks-v1a1/mono.m3u8?token=ff117adc1e07e472a2b2e098ebc499a636b31e8a-3c899d6e759d69ca9b0985dcd957a02e-1656475978-1656468778
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.al-ain.com/images/2017/6/29/105-111629-beiin-sports-piracy_700x400.jpeg" group-title="Canais Desportivos",Sports 1
-https://aipaipara.xyz/bein1/tracks-v1a1/mono.m3u8?token=1c92f6e48eb50f936d0576d66f966863ac1690ef-d20d99234301eff13e729539e4d7ad47-1656476257-1656469057
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.al-ain.com/images/2017/6/29/105-111629-beiin-sports-piracy_700x400.jpeg" group-title="Canais Desportivos",Sports 2
-https://aipaipara.xyz/bein2/tracks-v1a1/mono.m3u8?token=73b640ae5b9d5c49d8e61bb59a9068181754a86e-e283f60feb2880ed0da0e2c494ad2340-1656476211-1656469011
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.al-ain.com/images/2017/6/29/105-111629-beiin-sports-piracy_700x400.jpeg" group-title="Canais Desportivos",Sports 3
-https://aipaipara.xyz/bein3/tracks-v1a1/mono.m3u8?token=782cee03a5e8876569b0f3b96eef3734b4cb3105-d5c6a20aa50a5d4fb5465892f78a86bc-1656476163-1656468963
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://voxnews.com.br/wp-content/uploads/2018/06/bandsports_logo.jpg" group-title="Canais Desportivos",Band Sports
-https://aipaipara.xyz/band-sports/tracks-v1a1/mono.m3u8?token=d42a125212ee953fa6712dd92d819d2bc357434b-f142278d1299bef00a1bf12a0f54444a-1656476329-1656469129
-
-#EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/DuAI-GWO8QqfVDIy-UDDQUJTwq_oKnFEuJk1bCN4coyJ3DiYqHwCUDhWmtdVqJAOINcF" group-title="Canais Desportivos",BLAZE
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158901?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/494px-Logo_Canal_11_FPF.svg.png" group-title="Canais Desportivos",CANAL 11 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205660?checkedby:iptvcat.com
@@ -219,18 +199,6 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132896?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/83/29/88/832988b1-79c5-2917-9170-4c15373a63d4/AppIcon-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png" group-title="Canais Desportivos",REDBULL TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/178144?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png" group-title="Canais Desportivos",KSA Sports 1 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png" group-title="Canais Desportivos",KSA Sports 2 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AF" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-sport-mn.png" group-title="Canais Desportivos",MNB Sport
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="AF" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c4ea6c113101195.Y3JvcCwxMzgwLDEwODAsMjk3LDA.png" group-title="Canais Desportivos",RTA Sport
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/66167?checkedby:iptvcat.com
 
 
 #EXTGRP:18+
