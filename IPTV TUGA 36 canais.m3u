@@ -10,10 +10,10 @@ http://ccdn.pw:80/EFjGN/844UACmmh/74934.ts
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Televisão Portugal",TVI HD
-https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=205309577&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDI6NTQ6NyBQTSZoYXNoX3ZhbHVlPUlwd2FZVTJianJDdENPbnlUd2JOUEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04N2RjZWZjOC04OGJkLTQ2MDQtYWI3Yi1jY2MwZGM5MGE5NmM=
+https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=205377139&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIyIDM6MTE6NDkgQU0maGFzaF92YWx1ZT1Zd1dmbXpLVnJrRi9RYUZnaFJPYU9BPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MGE5ZWI0NzgtMzM5Mi00ZjliLTk2YjgtNDYxNTVlOTZjYWI4
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png" group-title="Televisão Portugal",CNN PORTUGAL
-https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=205309476&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDI6NDc6NTAgUE0maGFzaF92YWx1ZT1QZGZwMDBPT2NFd2tsdE8wYnZVeXN3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGQ3NGIwYWQtZWE0NC00NjlhLWExMTktZGM1NzcxYzkyYTFj
+https://video-auth6.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=205377178&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIyIDM6MTI6MTggQU0maGFzaF92YWx1ZT1jSVRrL21uUDlMRmNSeGlBTVJWVVB3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZjE3MzA4NzYtZWZjZC00Y2M2LWJhMDItODdiOWY4M2ZkZjU2
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg" group-title="Televisão Portugal",CMTV
 http://ccdn.pw:80/EFjGN/844UACmmh/74840.ts
@@ -180,8 +180,33 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2232?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://pbs.twimg.com/profile_images/527537294471737344/em3WLNOV_400x400.jpeg" group-title="Canais Desportivos",BTV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/161970?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="PT" tvg-logo="https://ewsat.com/img/REAL_MADRID.png" group-title="Canais Desportivos",REAL MADRID TV
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/136663?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbatv.png" group-title="Canais Desportivos",NBA TV
+https://aipaipara.xyz/nba/tracks-v1/mono.m3u8?token=6471858c9e11206503fa0a9462027488ea06fcdb-68f0a3881e0639655b31a2f30a1995e7-1656475334-1656468134
+
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.tvmagazine.com.br/historiadatvpaga/imagens/mva_combate2008.jpg" group-title="Canais Desportivos",Combate
+https://aipaipara.xyz/combate/tracks-v1a1/mono.m3u8?token=398a8b8d284e0b2a03820e0a2ccd6fbbc2a74077-93c91d2eff1ec4d991736a68e0399bbc-1656475849-165646864
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.broadcastmagazine.nl/wp-content/uploads/2021/04/espn1020.jpg" group-title="Canais Desportivos",ESPN - TV
+https://aipaipara.xyz/combate/tracks-v1a1/mono.m3u8?token=398a8b8d284e0b2a03820e0a2ccd6fbbc2a74077-93c91d2eff1ec4d991736a68e0399bbc-1656475849-1656468649
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.broadcastmagazine.nl/wp-content/uploads/2021/04/espn1020.jpg" group-title="Canais Desportivos",ESPN - TV
+https://aipaipara.xyz/espn/tracks-v1a1/mono.m3u8?token=ff117adc1e07e472a2b2e098ebc499a636b31e8a-3c899d6e759d69ca9b0985dcd957a02e-1656475978-1656468778
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.broadcastmagazine.nl/wp-content/uploads/2021/04/espn1020.jpg" group-title="Canais Desportivos",ESPN - TV
+https://aipaipara.xyz/espn/tracks-v1a1/mono.m3u8?token=ff117adc1e07e472a2b2e098ebc499a636b31e8a-3c899d6e759d69ca9b0985dcd957a02e-1656475978-1656468778
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.al-ain.com/images/2017/6/29/105-111629-beiin-sports-piracy_700x400.jpeg" group-title="Canais Desportivos",Sports 1
+https://aipaipara.xyz/bein1/tracks-v1a1/mono.m3u8?token=1c92f6e48eb50f936d0576d66f966863ac1690ef-d20d99234301eff13e729539e4d7ad47-1656476257-1656469057
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.al-ain.com/images/2017/6/29/105-111629-beiin-sports-piracy_700x400.jpeg" group-title="Canais Desportivos",Sports 2
+https://aipaipara.xyz/bein2/tracks-v1a1/mono.m3u8?token=73b640ae5b9d5c49d8e61bb59a9068181754a86e-e283f60feb2880ed0da0e2c494ad2340-1656476211-1656469011
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.al-ain.com/images/2017/6/29/105-111629-beiin-sports-piracy_700x400.jpeg" group-title="Canais Desportivos",Sports 3
+https://aipaipara.xyz/bein3/tracks-v1a1/mono.m3u8?token=782cee03a5e8876569b0f3b96eef3734b4cb3105-d5c6a20aa50a5d4fb5465892f78a86bc-1656476163-1656468963
+
+#EXTINF:0 tvg-country="PT" tvg-logo="https://voxnews.com.br/wp-content/uploads/2018/06/bandsports_logo.jpg" group-title="Canais Desportivos",Band Sports
+https://aipaipara.xyz/band-sports/tracks-v1a1/mono.m3u8?token=d42a125212ee953fa6712dd92d819d2bc357434b-f142278d1299bef00a1bf12a0f54444a-1656476329-1656469129
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/DuAI-GWO8QqfVDIy-UDDQUJTwq_oKnFEuJk1bCN4coyJ3DiYqHwCUDhWmtdVqJAOINcF" group-title="Canais Desportivos",BLAZE
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/158901?checkedby:iptvcat.com
@@ -243,16 +268,23 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",SBT TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",RecordTV
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",Discovery Channel - TV
+https://aipaipara.xyz/discovery-channel/tracks-v1a1/mono.m3u8?token=29b307fed62619ebe09722805102c3725922b475-82ff7390ffe1555b7c77ee0522bb7943-1656475554-1656468354
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",History - TV
+https://aipaipara.xyz/history/tracks-v1a1/mono.m3u8?token=d18afc0e33c427687461f6adc423881b6ac09ef9-d08e221ee97ba34f7a9b4654a32a0aa1-1656475624-1656468424
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",History - TV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",TVE BAHIA
 http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
-
+https://aipaipara.xyz/axn/tracks-v1a1/mono.m3u8?token=79034a79e1ea8e63a9b14c148f545a77a6274c1e-256720944e20dd6118464c6a3a3495e2-1656475680-1656468480
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
-
-
 
 #EXTINF:-1 group-title="Praias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Amado
 https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
