@@ -7,7 +7,7 @@ http://ccdn.pw:80/EFjGN/844UACmmh/74931.ts
 http://ccdn.pw:80/EFjGN/844UACmmh/74934.ts
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" group-title="Televisão Portugal",SIC HD
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 
 #EXTINF:0 tvg-country="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png" group-title="Televisão Portugal",TVI HD
 https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=205309577&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDI6NTQ6NyBQTSZoYXNoX3ZhbHVlPUlwd2FZVTJianJDdENPbnlUd2JOUEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04N2RjZWZjOC04OGJkLTQ2MDQtYWI3Yi1jY2MwZGM5MGE5NmM=
@@ -218,6 +218,26 @@ http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_26
 #EXTINF:-1 tvg-name="VISIT-X" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+", VISIT-X
 #EXTGRP:18+
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",Miami TV Live
+#EXTGRP:18+
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+
+#EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",MIA KHALIFA
+#EXTGRP:18+
+http://218158.vod.adultiptv.net/ph5ae33ab4a0327/play.m3u8
+
+EXTINF:-1 tvg-name="KINO 18+" tvg-logo="https://prod.cms.col.movistar.es/app/gp/public/tv/static/television/otros-canales-tv/img/160x130/playboy.jpg" group-title="18+",GATINHAS BRASILEIRAS
+#EXTGRP:18+
+http://1465.vod.redtraffic.xyz/ph57508b729a194/play.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6FmhMtC/br.png" group-title="Brasil tv",SBT TV JORNAL CARUARU
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
