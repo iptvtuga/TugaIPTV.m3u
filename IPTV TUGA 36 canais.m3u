@@ -236,7 +236,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Floresta (PA)
 https://streaming.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - TV Difusora (MA)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL",SBT - TV Difusora (MA)
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="BRASIL", SBT - TV Serra Dourada - (GO)
@@ -269,7 +269,7 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="BRASIL", RecordTV NDTV SC
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="BRASIL",Band
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="BRASIL",Band - RBA TV (PA)
@@ -7687,5 +7687,3 @@ http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/225933.avi
 http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/225932.avi
 #EXTINF:-1 tvg-id="" tvg-name="Man From Atlantis - English  S01 E07" tvg-logo="https://image.tmdb.org/t/p/original/7Gs6U8s0wTcf4DpS2nK4kM4q17W.jpg" group-title="English Series",Man From Atlantis - English  S01 E07
 http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/225931.avi
-
-
